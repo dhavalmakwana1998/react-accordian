@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-accordian/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/react-accordian/static/js/main.b40a0347.chunk.js",
-    "main.js.map": "/react-accordian/static/js/main.b40a0347.chunk.js.map",
+    "main.js": "/react-accordian/static/js/main.d4585e46.chunk.js",
+    "main.js.map": "/react-accordian/static/js/main.d4585e46.chunk.js.map",
     "runtime-main.js": "/react-accordian/static/js/runtime-main.6899c942.js",
     "runtime-main.js.map": "/react-accordian/static/js/runtime-main.6899c942.js.map",
     "static/js/2.ef0efe15.chunk.js": "/react-accordian/static/js/2.ef0efe15.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6899c942.js",
     "static/js/2.ef0efe15.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.b40a0347.chunk.js"
+    "static/js/main.d4585e46.chunk.js"
   ]
 }
