@@ -18,7 +18,7 @@ function Accordian() {
   return (
     <>
       <Container className={classes.myRoot}>
-        <Typography variant="h3" style={{ color: "green" }}>
+        <Typography variant="h3" style={{ color: "red" }}>
           My Custom Accordian Style
         </Typography>
 
